@@ -28,7 +28,7 @@ s
 
 Your answer: A database holds the data using columns and rows. Relational databases uses commands like SELECT, FROM, ORDER BY, LIMIT, etc. Examples of relational databases are PostgreSQL and MySQL. There are also non-relational databases, which are different than relational databases. 
 
-Researched answer:
+Researched answer: A relational database is a collection of data that has some kind of relation to each other. The relational database is filled with data that are similar to each other. Examples of a relational database would be a list of people and their date of birth. Everyone has a date of birth and can be used in a relational database to compare one and another. A relational database is organized via columns and rows. There are non-relational or noSQL databases and these use JSON data instead of columns and rows.
 
 5. What are primary keys? Why are they important?
 
